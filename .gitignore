@@ -1,5 +1,22 @@
-# Cache objects
-packer_cache/
+# NPM
+node_modules
+npm-debug.log
 
-# For built boxes
-*.box
+# Jekyll
+_site
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+**/Gemfile.lock
+
+# Temporary files
+tmp
+.DS_Store
+Desktop.ini
+._*
+Thumbs.db
+.Spotlight-V100
+.Trashes
+.idea
