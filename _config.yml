@@ -36,3 +36,5 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+
+baseurl: "/jekyll-serif-theme"
